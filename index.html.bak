@@ -52,7 +52,7 @@
 <article id="gallery">
 	<h1 class="background">Gallery</h1>
 	<!--HERE-->
-<a href='p/stretch.gif' data-d='2023-05-19' data-r='2'><img src='m/stretch.jpg' title='oc,bg,animated'></a>
+<a href='p/stretch.jpg' data-d='2023-05-19' data-r='2'><img src='m/stretch.jpg' title='oc,bg,animated'></a>
 <a href='p/eyes redraw.jpg' data-d='2023-05-12' data-r='1'><img src='m/eyes redraw.jpg' title='redraw,portrait,painting'></a>
 <a href='p/electricity omake.png' data-d='2023-05-03' data-r='1'><img src='m/electricity omake.png' title='b&w'></a>
 <a href='p/electricity.png' data-d='2023-04-29' data-r='2'><img src='m/electricity.png' title='violence,b&w,bg'></a>

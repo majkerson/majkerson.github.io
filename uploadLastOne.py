@@ -35,7 +35,7 @@ def main():
 		if (os.path.isfile(fileUrl) == False): continue
 		temp = f.split(".");
 		if (len(temp) < 2): continue
-		if (temp[1] != "jpg"): continue
+		#if (temp[1] != "jpg") or (temp[1] != "gif"): continue
 		dat = time.ctime(os.path.getmtime(fileUrl))
 		dat2 = datetime.datetime.strptime(dat, "%c")
 		dat3 = dat2.strftime("%Y-%m-%d")
